@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hey, I'm Logan 👋<br>Rising 3rd Year CS student at UC Davis focused on AI/ML engineering, sports analytics, and FullStack development.<br>
+# Hey, I'm Logan 👋<br> 3rd-year CS student at UC Davis focused on AI/ML engineering, sports analytics, and full-stack development.<br>
 
 
 ## 🌐 Socials:
